@@ -8,10 +8,10 @@ layout: default
 
 ![SEDI](https://fwilson93.github.io/Portfolio/assets/img/SEDI_Doornbos.JPG)
 _Some of the SEDI Committee (Mike Bergman, Mathieu Dumberry and Lauren Waszek) and the 2024 Doornbos prizewinners (Felix Gerick, Alfred Wilson, Laura Gobden and Daria Holdenried-Chernoff) at the 2024 SEDI meeting, Great Barrington, MA. [📷 Steve Constable]_
-
+* * *
 ## [Research Themes](./research-themes.html).
 What I like to work on.
-
+* * *
 ## [Professional Service](./professional-service.html).
 Other things that I'm proud of.
-
+* * *
