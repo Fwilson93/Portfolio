@@ -9,7 +9,11 @@ layout: default
 ![SEDI](https://fwilson93.github.io/Portfolio/assets/img/SEDI_Doornbos.JPG)
 _Some of the SEDI Committee (Mike Bergman, Mathieu Dumberry and Lauren Waszek) and the 2024 Doornbos prizewinners (Felix Gerick, Alfred Wilson, Laura Gobden and Daria Holdenried-Chernoff) at the 2024 SEDI meeting, Great Barrington, MA. [📷 Steve Constable]_
 
-[**Link to another page**](./another-page.html).
+## [Research Themes](./research-themes.html).
+
+## [Research Themes](./research-themes.html).
+
+
 ## Research 
 ### Nucleation of the Earth's Solid Inner Core
 Figuring out when the Earth's solid inner core began to freeze is easy right? The core is cooling down, so just find the time when the temperature of the core drops below the melting temperature. The trouble is that all liquids actually have to be supercooled to below the melting temperature before they begin to freeze. Did you know that water can be supercooled to 30 C below its melting temperature before it forms hail in the atmosphere, provided there is no dust to help the nucleation along. Even with dust and supercooling, there is still a waiting time for liquids to freeze. This is because the solid only starts to grown once the random vibrations of atoms arrange to form a solid of a critical size.
