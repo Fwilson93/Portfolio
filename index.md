@@ -7,7 +7,7 @@ layout: default
 **Hi, my name is Fred. Here you will find some details on my work and interests. My priniciple area of reasearch is the key processes in the metallic cores and magma oceans of rocky planets which facilitate habitable conditions at the surface. I work within the  <a href="https://planetarycores.leeds.ac.uk/">  Leeds Centre for Planetary Cores</a> but collaborate broadly, so if you have ideas, I'm all ears! Feel free to send me an email or catch me at a conference. I am regularly at the AGU and EGU annual meetings and help organise the Mineral Physics Group Research in Progress meetings.**
 
 ![SEDI](https://fwilson93.github.io/Portfolio/assets/img/SEDI_Doornbos.JPG)
-_SEDI Committee (Mike Bergman, Mathieu Dumberry and Lauren Waszek) and the 2024 Doornbos prizewinners (Felix Gerick, Alfred Wilson, Laura Gobden and Daria Holdenried-Chernoff) at the 2024 SEDI meeting, Great Barrington, MA. [📷 Steve Constable]_
+_Some of the SEDI Committee (Mike Bergman, Mathieu Dumberry and Lauren Waszek) and the 2024 Doornbos prizewinners (Felix Gerick, Alfred Wilson, Laura Gobden and Daria Holdenried-Chernoff) at the 2024 SEDI meeting, Great Barrington, MA. [📷 Steve Constable]_
 
 ## Research
 ### Nucleation of the Earth's Solid Inner Core
