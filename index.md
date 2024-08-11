@@ -15,3 +15,4 @@ _Some of the SEDI Committee (Mike Bergman, Mathieu Dumberry and Lauren Waszek) a
 ## [Professional Service](./professional-service.html)
 [Other things that I'm proud of.](./professional-service.html)
 * * *
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
