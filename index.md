@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Mineral Physics and Geophysics
+# Mineral Physicist and Geophysicist
 
 Hi, my name is Fred. Here you will find some details on my work and interests. My priniciple interests are the key processes in the metallic cores and magma oceans of rocky planets which facilitate habitable conditions at the surface. If you have any questions about my work or anything else, feel free to send me an email or catch me at a conference. I am regularly at the AGU and EGU annual meetings and help organise the Mineral Physics Group Research in Progress meetings.
 
