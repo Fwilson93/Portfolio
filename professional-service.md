@@ -7,3 +7,9 @@ I sit on the Equlity, Diversity and Inclusivity committee of the School of Earth
 
 ### Mineral Physics Special Interest Group
 As an ordinary committee member of the <a href="https://www.minersoc.org/mpg.html"> Mineral Physics Special Interest Group Mineralogical Society of the UK and Ireland</a> I assist in organising yearly Research in Progress meetings and help coordination of travel bursaries for early career researchers. 
+
+### Reviewing
+I take great pride in offering constructivr and thoughtful reviews for my peers. It is an honor an a privilige to review for journals and organisations such as Nature Geosciences, Journal of Geophysical Research: Solid Earth, Geophysical Journal International (Outstanding
+Reviewer 2023), Geochimica et Cosmochimica Acta, Scientific Reports, the National Science Foundation and the L'Oréal For women in science award.
+
+### 
