@@ -6,6 +6,10 @@ layout: default
 
 I am a research fellow at the University of Leeds. My research focuses on understanding how the Earth's deep interior has played a role in the habitability of our planet.
 
+### Small image
+
+![Octocat]([https://github.com/Fwilson93/Portfolio/blob/main/assets/img/SEDI_Doornbos.JPG?raw=true])
+
 ## Research
 ### Nucleation of the Earth's Solid Inner Core
 ### Precipitation of Light Elements from the Earth's Outer Core
@@ -18,3 +22,5 @@ I am a research fellow at the University of Leeds. My research focuses on unders
 
 ### Mineral Physics Special Interest Group
 As an ordinary committee member of the Mineral Physics Special Interest Group Mineralogical Society of the UK and Ireland I assist in organising yearly Research in Progress meetings and help coordination of travel bursaries for early career researchers. 
+
+
