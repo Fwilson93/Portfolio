@@ -4,7 +4,7 @@ layout: default
 
 # Mineral Physics and Geophysics
 
-I am a research fellow at the University of Leeds. My research focuses on understanding how the Earth's deep interior has played a role in the habitability of our planet.
+Hi, my name is Fred. Here you will find some details on my work and interests. My priniciple interests are the key processes in the metallic cores and magma oceans of rocky planets which facilitate habitable conditions at the surface. If you have any questions about my work or anything else, feel free to send me an email or catch me at a conference. I am regularly at the AGU and EGU annual meetings and help organise the Mineral Physics Group Research in Progress meetings.
 
 ![SEDI](https://fwilson93.github.io/Portfolio/assets/img/SEDI_Doornbos.JPG)
 SEDI Committee (Mike Bergman, Mathieu Dumberry and Lauren Waszek) and the 2024 Doornbos prizewinners (Felix Gerick, Alfred Wilson, Laura Gobden and Daria Holdenried-Chernoff) at the 2024 SEDI meeting, Great Barrington, MA.
