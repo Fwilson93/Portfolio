@@ -8,7 +8,7 @@ I am a research fellow at the University of Leeds. My research focuses on unders
 
 ### Small image
 
-![Octocat]([https://github.com/Fwilson93/Portfolio/assets/img/SEDI_side_profile.jpg])
+![Octocat]([https://fwilson93.github.io/Portfolio/assets/img/SEDI_side_profile.jpg])
 
 ## Research
 ### Nucleation of the Earth's Solid Inner Core
