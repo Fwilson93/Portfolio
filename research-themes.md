@@ -8,7 +8,7 @@ When we estimate how much supercooling is needed to kick start inner core growth
 Watch this space for a review we have coming (hopefully) soon which shows how and why this paradox matters for the thermal history of Earth.
 
 I am also interested in what happens when this barrier to nucleation is overcome and supercooled liquids at the centre of the Earth begin to freeze. The initial growth of the inner core might have been extremely rapid but to understand how rapid, we need to learn more...
-<iframe width="496" height="279" src="https://www.youtube.com/embed/JrlEmU6eJDk?si=s3XPIWPIIhRz9go6?autoplay=1&loop=1&playlist=JrlEmU6eJDk?si=s3XPIWPIIhRz9go6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="496" height="279" src="https://www.youtube.com/embed/JrlEmU6eJDk?si=xMgbsQf1ozf_j-lI&amp;controls=0&autoplay=1&loop=1&playlist=JrlEmU6eJDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 _Cellular automaton of FeO freezing in Earth's core (0.01 mm<sup>2</sup> 0.02 seconds). Simulations like this, based of thermodynamic properties from experiments and first principles, teach us about the early stages of inner core growth._
 
 
