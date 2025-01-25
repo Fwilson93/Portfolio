@@ -1,6 +1,15 @@
 ---
 layout: default
 ---
+
+# Planetary Mineral Physics and Geophysics
+
+|    |    |    |
+|----|----|----|
+| [Research Themes](./research-themes.html) | [Professional Service](./professional-service.html) | [Publications](./publications.html) |
+
+* * *
+
 # Research Themes
 ### Nucleation of the Earth's Solid Inner Core
 Figuring out when the Earth's solid inner core began to freeze is easy right? The core is cooling down, so just find the time when the temperature of the core drops below the melting temperature. The trouble is that all liquids actually have to be supercooled to below the melting temperature before they begin to freeze. Did you know that water can be supercooled to 30 C below its melting temperature before it forms hail in the atmosphere, provided there is no dust to help the nucleation along. Even with dust and supercooling, there is still a waiting time for liquids to freeze. This is because the solid only starts to grow once the random vibrations of atoms arrange to form a solid of a critical size.
