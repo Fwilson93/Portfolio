@@ -10,6 +10,10 @@ layout: default
 
 ## Publications
 
+Pommier, A., Tauber, M.J., Davies, C.J., Wilson, A.J., Renggli, C., Reitze, M., Bullock. E., (2025),
+Electrical Properties of Alkaline Earth Sulfides and Implications for the Interior of Mercury. Journal of
+Geophysical Research: Planets.
+
 Wilson, A., Davies, C., Walker, A., Pozzo, M., Alfè, D., & Deuss, A. F. (2024). The formation and evolution of Earth’s inner core. <a href="https://doi.org/10.31223/X58Q51">https://doi.org/10.31223/X58Q51</a>
 
 Davies, C. J., Pommier, A., Greenwood, S., & Wilson, A. (2024). Thermal and magnetic evolution of Mercury with a layered Fe-Si (-S) core. Earth and Planetary Science Letters, 641, 118812. <a href="https://doi.org/10.1016/j.epsl.2024.118812">https://doi.org/10.1016/j.epsl.2024.118812</a>
