@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-
-# Planetary Mineral Physics and Geophysics
+![banner](https://MinPhys.github.io/pre-release/RiP_2025/assets/website_banner_RiP_25.png)
 
 |    |    |    |
 |----|----|----|
