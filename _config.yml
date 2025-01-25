@@ -14,6 +14,8 @@ description: I am a research fellow at the University of Leeds studying the ther
              
 show_downloads: false
 
-google_analytics: true
+# Google Analytics
+# google_analytics: true
+google_analytics: G-VSZNFHQWQB
 
 theme: jekyll-theme-minimal
