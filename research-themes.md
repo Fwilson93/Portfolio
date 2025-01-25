@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-![banner](https://fwilson93.github.io/Portfolio/assets/img/websitebanner.png)
+
+# Planetary Mineral Physics and Geophysics
 
 |    |    |    |
 |----|----|----|
