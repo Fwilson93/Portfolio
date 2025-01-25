@@ -7,7 +7,6 @@ layout: default
 |    |    |    |
 |----|----|----|
 | [Research Themes](./research-themes.html) | [Professional Service](./professional-service.html) | [Publications](./publications.html) |
-|    |    |    |
 
 ## Publications
 
@@ -22,4 +21,14 @@ Walker, A., Davies, C., Wilson, A., & Bergman, M. (2024). A non-equilibrium slur
 Wilson, A. J., Pozzo, M., Davies, C. J., Walker, A. M., & Alfè, D. (2023). Examining the power supplied to Earth's dynamo by magnesium precipitation and radiogenic heat production. Physics of the Earth and Planetary Interiors, 343, 107073. https://doi.org/10.1016/j.pepi.2023.107073
 
 Wilson, A. J., Alfè, D., Walker, A. M., & Davies, C. J. (2023). Can homogeneous nucleation resolve the inner core nucleation paradox?. Earth and Planetary Science Letters, 614, 118176. https://doi.org/10.1016/j.epsl.2023.118176
+
+Wilson, A. J., Pozzo, M., Alfè, D., Walker, A. M., Greenwood, S., Pommier, A., & Davies, C. J. (2022). Powering Earth's ancient dynamo with silicon precipitation. Geophysical Research Letters, 49(22), e2022GL100692. https://doi.org/10.1029/2022GL100692
+
+Wilson, A. J., Walker, A. M., Alfè, D., & Davies, C. J. (2021). Probing the nucleation of iron in Earth's core using molecular dynamics simulations of supercooled liquids. Physical Review B, 103(21), 214113. https://doi.org/10.1103/PhysRevB.103.214113
+
+Wilson, A., & Stixrude, L. (2021). Entropy, dynamics, and freezing of CaSiO3 liquid. Geochimica et Cosmochimica Acta, 302, 1-17. https://doi.org/10.1016/j.gca.2021.03.015
+
+Citron, R. I., Lourenço, D. L., Wilson, A. J., Grima, A. G., Wipperfurth, S. A., Rudolph, M. L., ... & Montési, L. G. (2020). Effects of heat‐producing elements on the stability of deep mantle thermochemical piles. Geochemistry, Geophysics, Geosystems, 21(4), e2019GC008895. https://doi.org/10.1029/2019GC008895
+
+
 
