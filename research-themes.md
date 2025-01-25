@@ -7,8 +7,7 @@ layout: default
 |    |    |    |
 |----|----|----|
 | [Research Themes](./research-themes.html) | [Professional Service](./professional-service.html) | [Publications](./publications.html) |
-
-* * *
+|    |    |    |
 
 # Research Themes
 ### Nucleation of the Earth's Solid Inner Core
