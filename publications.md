@@ -34,5 +34,5 @@ Wilson, A., & Stixrude, L. (2021). Entropy, dynamics, and freezing of CaSiO3 liq
 
 Citron, R. I., Lourenço, D. L., Wilson, A. J., Grima, A. G., Wipperfurth, S. A., Rudolph, M. L., ... & Montési, L. G. (2020). Effects of heat‐producing elements on the stability of deep mantle thermochemical piles. Geochemistry, Geophysics, Geosystems, 21(4), e2019GC008895. <a href="https://doi.org/10.1029/2019GC008895">https://doi.org/10.1029/2019GC008895
 
-
+* * *
 
