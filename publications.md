@@ -8,6 +8,8 @@ layout: default
 |----|----|----|
 | [__Research Themes__](./research-themes.html) | [__Professional Service__](./professional-service.html) | [__Publications__](./publications.html) |
 
+<br/>
+
 ## Publications
 
 Pommier, A., Tauber, M.J., Davies, C.J., Wilson, A.J., Renggli, C., Reitze, M., Bullock. E., (2025),
