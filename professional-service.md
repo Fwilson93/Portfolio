@@ -6,7 +6,7 @@ layout: default
 
 |    |    |    |
 |----|----|----|
-| [Research Themes](./research-themes.html) | [Professional Service](./professional-service.html) | [Publications](./publications.html) |
+| [__Research Themes__](./research-themes.html) | [__Professional Service__](./professional-service.html) | [__Publications__](./publications.html) |
 
 ## Professional Service
 ### Equality Diversity and Inclusivity
