@@ -18,3 +18,7 @@ As chair of the <a href="https://www.minersoc.org/mpg.html"> Mineral Physics Spe
 
 ### Reviewing
 I take great pride in offering constructive and thoughtful reviews for my peers. It is an honour and a privilege to review for journals and organisations such as Nature Geosciences, Journal of Geophysical Research: Solid Earth, Geophysical Journal International (Outstanding Reviewer 2023), Geochimica et Cosmochimica Acta, Scientific Reports, Nano Letters, Physical Review B, the National Science Foundation and the L’Oréal For women in science award.
+
+### Post-graduate Coding Support Group
+To support the development of technical skills among early-career Earth scientists, I lead a weekly coding support group. This group consists of early-career researchers who collaboratively present and solve coding challenges in a friendly and constructive environment. The primary goal of this initiative is to foster a setting where anyone can ask questions without judgment and benefit from the diverse experience and expertise of the community.
+The group is primarily composed of members of the Institute for Geophysics and Tectonics within the School of Earth and Environment at the University of Leeds. Our discussions frequently focus on data processing, statistical analysis, and visualization across a wide range of topics, from InSAR to InSight.
