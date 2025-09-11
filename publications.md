@@ -10,6 +10,13 @@ layout: default
 
 <br/>
 ## Publications
+
+Wilson, A. J., Davies, C. J., Walker, A. M., & Alfè, D. (2025). Constraining Earth’s core composition from inner core nucleation. Nature Communications, 16(1), 7685. <a href="https://doi.org/10.1038/s41467-025-62841-4">https://doi.org/10.1038/s41467-025-62841-4</a>
+
+Wilson, A. J., Pozzo, M., Davies, C. J., Walker, A. M., & Alfè, D. (2025). The effect of compositional fluctuations in a liquid Fe–O alloy on the nucleation of Earth’s inner core. Scientific Reports, 15(1), 20386. <a href="https://doi.org/10.1038/s41598-025-07258-1">https://doi.org/10.1038/s41598-025-07258-1</a>
+
+Walker, A. M., Davies, C. J., Wilson, A. J., & Bergman, M. I. (2025). A non-equilibrium slurry model for planetary cores with application to Earth’s F-layer. Proceedings of the Royal Society A, 481(2311), 20240505. <a href="https://doi.org/10.1098/rspa.2024.0505">https://doi.org/10.1098/rspa.2024.0505</a>
+
 Wilson, A., Davies, C., Walker, A., Pozzo, M., Alfè, D., & Deuss, A. F. (2025). The formation and evolution of Earth’s inner core. Nature Reivews Earth and Environment, 6, 140–154. <a href="https://doi.org/10.1038/s43017-024-00639-6">https://doi.org/10.1038/s43017-024-00639-6</a>
 
 Pommier, A., Tauber, M.J., Davies, C.J., Wilson, A.J., Renggli, C., Reitze, M., Bullock. E., (2025),
@@ -17,10 +24,6 @@ Electrical Properties of Alkaline Earth Sulfides and Implications for the Interi
 Geophysical Research: Planets.
 
 Davies, C. J., Pommier, A., Greenwood, S., & Wilson, A. (2024). Thermal and magnetic evolution of Mercury with a layered Fe-Si (-S) core. Earth and Planetary Science Letters, 641, 118812. <a href="https://doi.org/10.1016/j.epsl.2024.118812">https://doi.org/10.1016/j.epsl.2024.118812</a>
-
-Wilson, A., Davies, C., Walker, A., & Alfè, D. (2024). Constraining Earth's core composition from inner core nucleation. <a href="https://doi.org/10.31223/X53D8H">https://doi.org/10.31223/X53D8H</a>
-
-Walker, A., Davies, C., Wilson, A., & Bergman, M. (2024). A non-equilibrium slurry model for planetary cores with application to Earth’s F-layer. <a href="https://doi.org/10.31223/X5PH62">https://doi.org/10.31223/X5PH62</a>
 
 Wilson, A. J., Pozzo, M., Davies, C. J., Walker, A. M., & Alfè, D. (2023). Examining the power supplied to Earth's dynamo by magnesium precipitation and radiogenic heat production. Physics of the Earth and Planetary Interiors, 343, 107073. <a href="https://doi.org/10.1016/j.pepi.2023.107073">https://doi.org/10.1016/j.pepi.2023.107073</a>
 
