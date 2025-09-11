@@ -11,7 +11,7 @@ layout: default
 <br/>
 ## Publications
 
-Wilson, A. J., Davies, C. J., Walker, A. M., & Alfè, D. (2025). Constraining Earth’s core composition from inner core nucleation. Nature Communications, 16(1), 7685. <a href="https://doi.org/10.1038/s41467-025-62841-4">https://doi.org/10.1038/s41467-025-62841-4</a>
+Wilson, A. J., Davies, C. J., Walker, A. M., & Alfè, D. (2025). Constraining Earth’s core composition from inner core nucleation. Nature Communications, 16(1), 7685. <a href="https://doi.org/10.1038/s41467-025-62841-4">doi.org/10.1038/s41467-025-62841-4</a>
 
 Wilson, A. J., Pozzo, M., Davies, C. J., Walker, A. M., & Alfè, D. (2025). The effect of compositional fluctuations in a liquid Fe–O alloy on the nucleation of Earth’s inner core. Scientific Reports, 15(1), 20386. <a href="https://doi.org/10.1038/s41598-025-07258-1">https://doi.org/10.1038/s41598-025-07258-1</a>
 
