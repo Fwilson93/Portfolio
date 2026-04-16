@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Alfred Wilson-Spencer
+title: Home
+nav_order: 1
 ---
 
 ## Planetary Mineral Physics and Geophysics
@@ -25,22 +26,9 @@ I am based in the **Leeds Centre for Planetary Cores** and collaborate widely ac
 - Thermodynamics of magma oceans and early planetary evolution  
 - Magnetic field generation and planetary habitability  
 
-For more detail, see **[Research Themes](research-themes.html)**.
-
----
-
-### Working with me
-
-I supervise **PhD students** and collaborate with researchers working on:
-- Planetary cores and dynamo theory  
-- Computational mineral or materials physics  
-- High‑pressure melting and freezing processes  
-
-Details on current and future opportunities are available **[here](opportunities.html)**.
-
 ---
 
 📍 Leeds, UK  
 ✉️ a.j.wilson1@leeds.ac.uk  
 🎓 [Google Scholar](https://scholar.google.com/citations?user=POyerY0AAAAJ&hl=en)  
-📄 [CV](assets/AJWS_CV.pdf)
+📄 assets/AJWS_CV.pdf
