@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Research Themes
+nav_order: 2
 ---
 
 ## Research Themes
