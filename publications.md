@@ -1,14 +1,9 @@
+
 ---
 layout: default
+title: Publications
+nav_order: 3
 ---
-
-# Planetary Mineral Physics and Geophysics
-
-|    |    |    |
-|----|----|----|
-| [__Research Themes__](./research-themes.html) | [__Professional Service__](./professional-service.html) | [__Publications__](./publications.html) |
-
-<br/>
 
 ## Selected and recent publications
 
