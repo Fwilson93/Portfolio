@@ -9,7 +9,27 @@ layout: default
 | [__Research Themes__](./research-themes.html) | [__Professional Service__](./professional-service.html) | [__Publications__](./publications.html) |
 
 <br/>
-## Publications
+
+## Selected and recent publications
+
+**Wilson, A. J. et al. (2025)**  
+*The formation and evolution of the Earth’s inner core*  
+Nature Reviews Earth & Environment  
+— A synthesis of inner‑core formation models and emerging constraints from mineral physics and seismology.
+
+**Wilson, A. J. et al. (2025)**  
+*Constraining Earth’s core composition from inner‑core nucleation*  
+Nature Communications  
+— Demonstrates how nucleation physics provides direct constraints on core composition.
+
+**Walker, A. M., Davies, C. J., Wilson, A. J., & Bergman, M. I. (2025)**  
+*A non‑equilibrium slurry model for planetary cores*  
+Proceedings of the Royal Society A  
+
+---
+
+## Full publication list
+
 
 Wilson, A. J., Davies, C. J., Walker, A. M., & Alfè, D. (2025). Constraining Earth’s core composition from inner core nucleation. Nature Communications, 16(1), 7685. <a href="https://doi.org/10.1038/s41467-025-62841-4">doi.org/10.1038/s41467-025-62841-4</a>
 
